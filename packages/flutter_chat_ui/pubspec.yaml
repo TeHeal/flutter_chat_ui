@@ -16,7 +16,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_chat_core: ^0.0.2
-  provider: ^6.1.2
+  get: ^5.0.0-release-candidate-9.2.1 # Use GetX instead of Provider / 使用 GetX 代替 Provider
 
 dev_dependencies:
   flutter_lints: ^4.0.0
